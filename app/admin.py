@@ -8,3 +8,12 @@ class ProfileAdmin(admin.ModelAdmin):
 
 
 admin.site.register(Profile, ProfileAdmin)
+
+
+class PlaceAdmin(admin.ModelAdmin):
+    list_display = ['owner', 'name', 'location', 'place_type']
+    list_filter = ['place_type']
+    search_fields = ['name', 'location']
+
+
+admin.site.register(Place, PlaceAdmin)

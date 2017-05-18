@@ -2,107 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="781196f7-3af4-43a4-b2d5-4d7da00de17c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/font/fontawesome-webfontd41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/font/fontawesome-webfonte0a5.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/font/fontawesome-webfonte0a5.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/font/fontawesome-webfonte0a5.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/font/fontawesome-webfonte0a5.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/ava_1.jpg.pagespeed.ce.aq9vdjbFWD.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/ava_3.jpg.pagespeed.ce.ldYVRVirTH.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_10.jpg.pagespeed.ic.ZSu3yWcUqQ.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_11.jpg.pagespeed.ic.5zWb0nKMru.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_12.jpg.pagespeed.ic.jOjnEH6Tv6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_16.jpg.pagespeed.ic.sIIYvqIphI.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_2.jpg.pagespeed.ic.W46E0c5TWX.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_4.jpg.pagespeed.ic.Izy26HP4Xs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_5.jpg.pagespeed.ic.-85w-jweYo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_6.jpg.pagespeed.ic.fyVw2_P9Gz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_7.jpg.pagespeed.ic.9-9fHOtbuD.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_8.jpg.pagespeed.ic.9-ghxGdjVS.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_9.jpg.pagespeed.ic.rW2xvxrhgA.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/c_interior.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/logoin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/pl1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/pl2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/houses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/promo_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl1/dott.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl1/map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl1/marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl1/sl_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl1/xbubble.png.pagespeed.ic.vC5AVBhuw4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl2/ximac.png.pagespeed.ic.P-owgTDptm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl2/xipad.png.pagespeed.ic.DCuyHrHPnn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl2/xmacbok.png.pagespeed.ic.b5aBwyJDx8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl2/xqr.png.pagespeed.ic.f0UQLBqOD8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl3/xh1.png.pagespeed.ic.XWBzu7t0Ap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl3/xh2.png.pagespeed.ic.a8jTh9cQ7N.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl3/xh3.png.pagespeed.ic.jL8i3RWX8m.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/xlogo.png.pagespeed.ic.BnYwbXGW4v.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xbglur1.png.pagespeed.ic.EtwjGjT4Xc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xbglur2.png.pagespeed.ic.fd97Wk4yce.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xbglur3.png.pagespeed.ic.nzKNLnPQUn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xbglur4.png.pagespeed.ic.G6P8Kodge4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xp1.png.pagespeed.ic.XBmLhMpgXO.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xp2.png.pagespeed.ic.mvkmSEKpBz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xp3.png.pagespeed.ic.Po-5ynRUAr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xscroll.png.pagespeed.ic.quBJNa79hg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/arrow_left2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/arrow_right2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/arrowleft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/arrowright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/boxed_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/bullet_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/bullets2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/coloredbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/gridtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/gridtile_3x3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/gridtile_3x3_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/gridtile_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/large_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/large_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/navigdots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/navigdots_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/shadow3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/small_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/small_left_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/small_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/small_right_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/timer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/xgridtile.png.pagespeed.ic.jHoNokq0WL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webResources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/css/A.bootstrap.css.pagespeed.cf.laZJ-JbHjf.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/css/A.main.css+adaptive.css+pushy.css+font-awesome.css+animate.css,Mcc.7Xi885fzpN.css.pagespeed.cf.3LRDSKWgNS.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/css/main.css+adaptive.css+pushy.css+font-awesome.css+animate.css.pagespeed.cc.7Xi885fzpN.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/font/fontawesome-webfonte0a5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/all_scr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/infobox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/jflickrfeed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/jquery.min.js.pagespeed.jm.YSzgc-BSX9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/jquery.parallax-0.2-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/map_place.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/map_visits.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/wow.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/wow.min.js+all_scr.js+bootstrap.min.js+map_index.js+infobox.js.pagespeed.jc.7IN7LgSLkU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/wow.min.js+all_scr.js+bootstrap.min.js+map_visits.js+infobox.js.pagespeed.jc.LohN_m1rI5.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/directoryapp.iml" afterPath="$PROJECT_DIR$/.idea/directoryapp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.gitattributes" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models.py" afterPath="$PROJECT_DIR$/app/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views.py" afterPath="$PROJECT_DIR$/app/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/directoryapp/urls.py" afterPath="$PROJECT_DIR$/directoryapp/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/admin.py" afterPath="$PROJECT_DIR$/app/admin.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -143,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/app/templates/app/index.djt.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
-              <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+              <caret line="53" column="22" lean-forward="false" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -153,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/app/static/app/css/main.css+adaptive.css+pushy.css+font-awesome.css+animate.css.pagespeed.cc.7Xi885fzpN.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -162,7 +64,7 @@
       <file leaf-file-name="A.main.css+adaptive.css+pushy.css+font-awesome.css+animate.css,Mcc.7Xi885fzpN.css.pagespeed.cf.3LRDSKWgNS.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/static/app/css/A.main.css+adaptive.css+pushy.css+font-awesome.css+animate.css,Mcc.7Xi885fzpN.css.pagespeed.cf.3LRDSKWgNS.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="-90">
               <caret line="0" column="1065" lean-forward="false" selection-start-line="0" selection-start-column="1065" selection-end-line="0" selection-end-column="1065" />
               <folding />
             </state>
@@ -183,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/app/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+              <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
               </folding>
@@ -191,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="321">
+              <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -203,29 +105,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/admin.py">
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/.gitattributes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="80">
-                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -245,7 +142,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/app/admin.py" />
         <option value="$PROJECT_DIR$/directoryapp/urls.py" />
         <option value="$PROJECT_DIR$/app/templates/app/index.html" />
         <option value="$PROJECT_DIR$/app/views.py" />
@@ -253,6 +149,8 @@
         <option value="$PROJECT_DIR$/app/static/app/css/main.css+adaptive.css+pushy.css+font-awesome.css+animate.css.pagespeed.cc.7Xi885fzpN.css" />
         <option value="$PROJECT_DIR$/app/templates/app/index.djt.html" />
         <option value="$PROJECT_DIR$/app/models.py" />
+        <option value="$PROJECT_DIR$/app/.gitattributes" />
+        <option value="$PROJECT_DIR$/app/admin.py" />
       </list>
     </option>
   </component>
@@ -318,28 +216,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="directoryapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="directoryapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="directoryapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -676,16 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/directoryapp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -707,7 +573,7 @@
     <entry file="file://$PROJECT_DIR$/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
           </folding>
@@ -716,7 +582,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/static/app/css/A.main.css+adaptive.css+pushy.css+font-awesome.css+animate.css,Mcc.7Xi885fzpN.css.pagespeed.cf.3LRDSKWgNS.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="-90">
           <caret line="0" column="1065" lean-forward="false" selection-start-line="0" selection-start-column="1065" selection-end-line="0" selection-end-column="1065" />
           <folding />
         </state>
@@ -725,7 +591,7 @@
     <entry file="file://$PROJECT_DIR$/app/static/app/css/main.css+adaptive.css+pushy.css+font-awesome.css+animate.css.pagespeed.cc.7Xi885fzpN.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -733,17 +599,35 @@
     <entry file="file://$PROJECT_DIR$/app/templates/app/index.djt.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
-          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+          <caret line="53" column="22" lean-forward="false" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="321">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
