@@ -29,3 +29,9 @@ class Place(models.Model):
     )
     place_type = models.CharField(max_length=256, verbose_name='Type')
     image = models.ImageField(verbose_name='Image')
+
+    def __str__(self):
+        return self.name
+
+    def __unicode__(self):
+        return self.name

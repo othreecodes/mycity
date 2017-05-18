@@ -1,0 +1,175 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My City</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="{% static 'app/css/A.bootstrap.css.pagespeed.cf.laZJ-JbHjf.css' %}">
+    <!--Main styles-->
+    <link rel="stylesheet" type="text/css"
+          href="{% static 'app/css/A.main.css%2badaptive.css%2bpushy.css%2bfont-awesome.css%2banimate.css%2cMcc.7Xi885fzpN.css.pagespeed.cf.3LRDSKWgNS.css' %}">
+
+    <link rel="stylesheet" type="text/css"
+          href="{% static 'app/rs-plugin/css/A.settings.css.pagespeed.cf.2D0qNGVvzO.css' %}"
+          media="screen"/>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body class="inmap innerpage">
+
+<!--navigation swipe-->
+<div class="menu-btn">&#9776;</div>
+
+<nav class="pushy pushy-left">
+
+    {% if request.user.is_authenticated %}
+        <div class="profile">
+            <div class="avatar"><img src="{{ request.user.profile.image.url}}"
+                                     alt="#"><span>5</span></div>
+            <h3><a href="">{{ request.user.first_name }} {{ request.user.last_name }}</a></h3>
+
+        </div>
+
+        {% else %}
+         <div class="profile">
+
+        </div>
+
+    {% endif %}
+
+    <ul class="side_menu">
+        {% if request.user.is_authenticated %}
+            <li><a href="#"><i class="fa fa-list"></i>My Places</a></li>
+            <li><a href="#"><i class="fa fa-user"></i>User profile</a></li>
+        {% else %}
+            <li><a href="#" class="log_btn"><i class="fa fa-lock"></i>Log in</a></li>
+            <li><a href="/register/"><i class="fa fa-user"></i>Register</a></li>
+        {% endif %}
+    </ul>
+</nav>
+
+<!--add-->
+<div class="add_place none" id="pl">
+    <div class="place_form">
+        <i class="fa fa-times close_window" id="close"></i>
+        <h3>Add new place<span></span></h3>
+        <form>
+            <label>Place name:<input type="text"></label>
+            <label>Location:<input type="text"></label>
+            <label>longitude:<input type="text"></label>
+            <label>Category:
+                <select>
+                    <option value="Cafe">Cafe</option>
+                    <option value="Bar">Bar</option>
+                    <option value="Cinema">Cinema</option>
+                    <option value="Shop">Shop</option>
+                    <option value="Sport">Sport</option>
+                    <option value="Club">Club</option>
+                    <option value="Showplace">Showplace</option>
+                    <option value="Park">Park</option>
+                    <option value="Bank">Bank</option>
+                </select>
+            </label>
+            <a href="#" class="green_btn_header" id="add">Add</a>
+        </form>
+    </div>
+</div>
+
+<!--autorization-->
+<div class="add_place none" id="autorized">
+    <div class="place_form login_form">
+        <i class="fa fa-times close_window" id="closeau"></i>
+        <h3>Autorization<span></span></h3>
+        <form>
+            <label>Login:<input type="text"></label>
+            <label>Password:<input type="text"></label>
+            <a href="#" class="btn btn-success">Log in</a>
+
+        </form>
+    </div>
+</div>
+
+<!-- Site Overlay -->
+<div class="site-overlay"></div>
+
+<div id="container">
+    <!--Header-->
+    <div class="container-fluid header inner_head">
+
+        <div class="fixed_w">
+            <div class="row">
+                <div class="col-md-12"><a href="/" class="logo"><img
+                        src="{% static 'app/img/logoin.png' %}" alt="MyCity"/></a>
+
+                    <form>
+                        <input type="text" class="search" placeholder="search">
+                    </form>
+                    {% if request.user.is_authenticated %}
+                        <a href="#" class="green_btn_header" id="ad">Add
+                            place</a>
+                    {% endif %}
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--categori menu-->
+    <div class="container-fluid menu mobile">
+        <div class="row">
+            <div class="col-md-12">
+                <span>Category menu</span>
+                <i class="fa fa-times" id="close_menu"></i>
+                <ul>
+                    <li><a href="javascript:toggleMarkers('Shop');" class="shop"><i class="fa fa-shopping-cart"></i></a>
+                    </li>
+                    <li><a href="javascript:toggleMarkers('Cinema');" class="cinema"><i class="fa fa-film"></i></a></li>
+                    <li><a href="javascript:toggleMarkers('Club');" class="club"><i class="fa fa-beer"></i></a></li>
+                    <li><a href="javascript:toggleMarkers('Cafe');" class="cafe"><i class="fa fa-cutlery"></i></a></li>
+                    <li><a href="javascript:toggleMarkers('Sport');" class="sport"><i class="fa fa-futbol-o"></i></a>
+                    </li>
+                    <li><a href="javascript:toggleMarkers('Bank');" class="bank"><i class="fa fa-university"></i></a>
+                    </li>
+                    <li><a href="javascript:toggleMarkers('Showplace');" class="showplace"><i class="fa fa-eye"></i></a>
+                    </li>
+                    <li><a href="javascript:toggleMarkers('Park');" class="park"><i class="fa fa-leaf"></i></a></li>
+                    <li class="mobile_menu"><a href="#"><i class="fa fa-bars"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!--map-->
+<div id="map" class="map"></div>
+<!--/map-->
+<!--
+#################################
+- SCRIPT FILES -
+#################################
+-->
+<script src="{% static 'app/js/jquery.min.js' %}"></script>
+<!--scroll animate block-->
+<script src="{% static 'app/js/wow.min.js' %}"></script>
+<!--Other main scripts-->
+<script src="{% static 'app/js/all_scr.js' %}"></script>
+<!--Bootstrap js-->
+<script src="{% static 'app/js/bootstrap.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'app/js/infobox.js' %}"></script>
+<!--Slider Revolution-->
+<script type="text/javascript" src="{% static 'app/rs-plugin/js/jquery.themepunch.tools.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'app/rs-plugin/js/jquery.themepunch.revolution.min.js' %}"></script>
+<!--Parallax-->
+<script type="text/javascript" src="{% static 'app/js/jquery.parallax-0.2-min.js' %}"></script>
+</body>
+</html>
