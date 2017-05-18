@@ -2,8 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="781196f7-3af4-43a4-b2d5-4d7da00de17c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/admin.py" afterPath="$PROJECT_DIR$/app/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/font/fontawesome-webfontd41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/font/fontawesome-webfonte0a5.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/font/fontawesome-webfonte0a5.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/font/fontawesome-webfonte0a5.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/font/fontawesome-webfonte0a5.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/ava_1.jpg.pagespeed.ce.aq9vdjbFWD.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/ava_3.jpg.pagespeed.ce.ldYVRVirTH.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_10.jpg.pagespeed.ic.ZSu3yWcUqQ.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_11.jpg.pagespeed.ic.5zWb0nKMru.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_12.jpg.pagespeed.ic.jOjnEH6Tv6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_16.jpg.pagespeed.ic.sIIYvqIphI.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_2.jpg.pagespeed.ic.W46E0c5TWX.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_4.jpg.pagespeed.ic.Izy26HP4Xs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_5.jpg.pagespeed.ic.-85w-jweYo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_6.jpg.pagespeed.ic.fyVw2_P9Gz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_7.jpg.pagespeed.ic.9-9fHOtbuD.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_8.jpg.pagespeed.ic.9-ghxGdjVS.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/avatar/xava_9.jpg.pagespeed.ic.rW2xvxrhgA.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/c_interior.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/logoin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/pl1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/pl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/houses.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/promo_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl1/dott.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl1/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl1/marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl1/sl_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl1/xbubble.png.pagespeed.ic.vC5AVBhuw4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl2/ximac.png.pagespeed.ic.P-owgTDptm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl2/xipad.png.pagespeed.ic.DCuyHrHPnn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl2/xmacbok.png.pagespeed.ic.b5aBwyJDx8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl2/xqr.png.pagespeed.ic.f0UQLBqOD8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl3/xh1.png.pagespeed.ic.XWBzu7t0Ap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl3/xh2.png.pagespeed.ic.a8jTh9cQ7N.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/sl3/xh3.png.pagespeed.ic.jL8i3RWX8m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/start/xlogo.png.pagespeed.ic.BnYwbXGW4v.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xbglur1.png.pagespeed.ic.EtwjGjT4Xc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xbglur2.png.pagespeed.ic.fd97Wk4yce.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xbglur3.png.pagespeed.ic.nzKNLnPQUn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xbglur4.png.pagespeed.ic.G6P8Kodge4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xp1.png.pagespeed.ic.XBmLhMpgXO.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xp2.png.pagespeed.ic.mvkmSEKpBz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xp3.png.pagespeed.ic.Po-5ynRUAr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/img/xscroll.png.pagespeed.ic.quBJNa79hg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/arrow_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/arrow_left2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/arrow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/arrow_right2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/arrowleft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/arrowright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/boxed_bgtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/bullet_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/bullets2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/coloredbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/gridtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/gridtile_3x3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/gridtile_3x3_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/gridtile_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/large_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/large_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/navigdots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/navigdots_bgtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/shadow1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/shadow2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/shadow3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/small_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/small_left_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/small_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/small_right_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/timer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/rs-plugin/assets/xgridtile.png.pagespeed.ic.jHoNokq0WL.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webResources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/css/A.bootstrap.css.pagespeed.cf.laZJ-JbHjf.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/css/A.main.css+adaptive.css+pushy.css+font-awesome.css+animate.css,Mcc.7Xi885fzpN.css.pagespeed.cf.3LRDSKWgNS.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/css/main.css+adaptive.css+pushy.css+font-awesome.css+animate.css.pagespeed.cc.7Xi885fzpN.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/font/fontawesome-webfonte0a5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/all_scr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/infobox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/jflickrfeed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/jquery.min.js.pagespeed.jm.YSzgc-BSX9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/jquery.parallax-0.2-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/map_place.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/map_visits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/wow.min.js+all_scr.js+bootstrap.min.js+map_index.js+infobox.js.pagespeed.jc.7IN7LgSLkU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/app/js/wow.min.js+all_scr.js+bootstrap.min.js+map_visits.js+infobox.js.pagespeed.jc.LohN_m1rI5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/directoryapp.iml" afterPath="$PROJECT_DIR$/.idea/directoryapp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models.py" afterPath="$PROJECT_DIR$/app/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views.py" afterPath="$PROJECT_DIR$/app/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/directoryapp/urls.py" afterPath="$PROJECT_DIR$/directoryapp/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,6 +130,48 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/directoryapp/urls.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="e#646#678#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.djt.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/app/index.djt.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css+adaptive.css+pushy.css+font-awesome.css+animate.css.pagespeed.cc.7Xi885fzpN.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/app/css/main.css+adaptive.css+pushy.css+font-awesome.css+animate.css.pagespeed.cc.7Xi885fzpN.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A.main.css+adaptive.css+pushy.css+font-awesome.css+animate.css,Mcc.7Xi885fzpN.css.pagespeed.cf.3LRDSKWgNS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/app/css/A.main.css+adaptive.css+pushy.css+font-awesome.css+animate.css,Mcc.7Xi885fzpN.css.pagespeed.cf.3LRDSKWgNS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="0" column="1065" lean-forward="false" selection-start-line="0" selection-start-column="1065" selection-end-line="0" selection-end-column="1065" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_scr.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/static/app/js/all_scr.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
@@ -41,18 +182,20 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="140">
+              <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="241">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -60,7 +203,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/admin.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
@@ -89,6 +232,12 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>58px</find>
+      <find>mycir</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -96,8 +245,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/app/models.py" />
         <option value="$PROJECT_DIR$/app/admin.py" />
+        <option value="$PROJECT_DIR$/directoryapp/urls.py" />
+        <option value="$PROJECT_DIR$/app/templates/app/index.html" />
+        <option value="$PROJECT_DIR$/app/views.py" />
+        <option value="$PROJECT_DIR$/app/static/app/css/A.main.css+adaptive.css+pushy.css+font-awesome.css+animate.css,Mcc.7Xi885fzpN.css.pagespeed.cf.3LRDSKWgNS.css" />
+        <option value="$PROJECT_DIR$/app/static/app/css/main.css+adaptive.css+pushy.css+font-awesome.css+animate.css.pagespeed.cc.7Xi885fzpN.css" />
+        <option value="$PROJECT_DIR$/app/templates/app/index.djt.html" />
+        <option value="$PROJECT_DIR$/app/models.py" />
       </list>
     </option>
   </component>
@@ -170,6 +325,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directoryapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directoryapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -179,6 +356,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../cookiecutters/scribblenv/bin/python3.5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/static/app/img" />
+      <recent name="$PROJECT_DIR$/app/static/app/css" />
+      <recent name="$PROJECT_DIR$/app/static/app/rs-plugin" />
+      <recent name="$PROJECT_DIR$/app/static/app" />
+      <recent name="$PROJECT_DIR$/app/static/app/js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -435,6 +621,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962063" sideWeight="0.49415693" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -444,7 +631,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3305509" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3305509" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.50584304" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -468,22 +655,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/directoryapp/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -505,22 +676,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/directoryapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#646#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/app/js/all_scr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/app/css/A.main.css+adaptive.css+pushy.css+font-awesome.css+animate.css,Mcc.7Xi885fzpN.css.pagespeed.cf.3LRDSKWgNS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="0" column="1065" lean-forward="false" selection-start-line="0" selection-start-column="1065" selection-end-line="0" selection-end-column="1065" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/app/css/main.css+adaptive.css+pushy.css+font-awesome.css+animate.css.pagespeed.cc.7Xi885fzpN.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/app/index.djt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
