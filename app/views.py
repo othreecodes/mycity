@@ -10,7 +10,13 @@ def index(request):
 
 def register(request):
     if request.method == "POST":
-        pass
+        fname = request.POST.get("fname")
+        lname = request.POST.get("lname")
+        uname = request.POST.get("username")
+        email = request.POST.get("email")
+        address = request.POST.get("address")
+        number = request.POST.get("number")
+
 
 
     return render(request, 'app/register.djt')
