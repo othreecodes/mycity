@@ -9,4 +9,8 @@ def index(request):
 
 
 def register(request):
+    if request.method == "POST":
+        pass
+
+
     return render(request, 'app/register.djt')
