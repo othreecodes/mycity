@@ -71,7 +71,7 @@
         <h3>Add new place<span></span></h3>
         <form>
             <label>Place name:<input type="text"></label>
-            <label>Location:<input id="searchTextField" type="text" size="50"></label>
+            <input id="searchTextField" type="text" size="50">
             <label>Image:<input type="file"></label>
             <label>Category:
                 <select>
