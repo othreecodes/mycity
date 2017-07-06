@@ -19,4 +19,5 @@ def register(request):
 
 
 
+
     return render(request, 'app/register.djt')

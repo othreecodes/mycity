@@ -14,7 +14,7 @@
 {% block content %}
 
     <div class="container">
-        <form class="form-horizontal" action="" method="post" >
+        <form class="form-horizontal" action="" method="post">
             {% csrf_token %}
             <fieldset>
                 <!-- Text input-->
@@ -77,7 +77,7 @@
                     <label class="col-md-4 control-label" for="6">Password <span
                             class="text-danger">*</span></label>
                     <div class="col-md-4">
-                        <input id="5" name="password" type="text" placeholder="" class="form-control input-md"
+                        <input id="5" name="password" type="password" placeholder="" class="form-control input-md"
                                required="">
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                     <label class="col-md-4 control-label" for="6">Confirm Password <span
                             class="text-danger">*</span></label>
                     <div class="col-md-4">
-                        <input id="5" name="cpassword" type="text" placeholder="" class="form-control input-md"
+                        <input id="5" name="cpassword" type="password" placeholder="" class="form-control input-md"
                                required="">
                     </div>
                 </div>
@@ -94,7 +94,9 @@
                 <div class="form-group">
                     <label class="col-md-4 control-label" for="singlebutton"></label>
                     <div class="col-md-4">
-                        <button id="singlebutton" onclick="validateForm()" name="singlebutton" class="btn btn-success">Register</button>
+                        <button id="singlebutton" onclick="validateForm()" name="singlebutton" class="btn btn-success">
+                            Register
+                        </button>
                     </div>
                 </div>
 
