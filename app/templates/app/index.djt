@@ -22,9 +22,14 @@
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
+
 <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+
 <![endif]-->
+    <script type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyDEPhAV4_Hkuy9naJxYgg7TddBbNY2-RHM&libraries=places"
+></script>
 </head>
 <body class="inmap innerpage">
 
@@ -35,14 +40,14 @@
 
     {% if request.user.is_authenticated %}
         <div class="profile">
-            <div class="avatar"><img src="{{ request.user.profile.image.url}}"
+            <div class="avatar"><img src="{{ request.user.profile.image.url }}"
                                      alt="#"><span>5</span></div>
             <h3><a href="">{{ request.user.first_name }} {{ request.user.last_name }}</a></h3>
 
         </div>
 
-        {% else %}
-         <div class="profile">
+    {% else %}
+        <div class="profile">
 
         </div>
 
@@ -66,8 +71,8 @@
         <h3>Add new place<span></span></h3>
         <form>
             <label>Place name:<input type="text"></label>
-            <label>Location:<input type="text"></label>
-            <label>longitude:<input type="text"></label>
+            <label>Location:<input id="searchTextField" type="text" size="50"></label>
+            <label>Image:<input type="file"></label>
             <label>Category:
                 <select>
                     <option value="Cafe">Cafe</option>
@@ -158,6 +163,8 @@
 - SCRIPT FILES -
 #################################
 -->
+
+
 <script src="{% static 'app/js/jquery.min.js' %}"></script>
 <!--scroll animate block-->
 <script src="{% static 'app/js/wow.min.js' %}"></script>
@@ -165,11 +172,21 @@
 <script src="{% static 'app/js/all_scr.js' %}"></script>
 <!--Bootstrap js-->
 <script src="{% static 'app/js/bootstrap.min.js' %}"></script>
-<script type="text/javascript" src="{% static 'app/js/infobox.js' %}"></script>
+{#<script type="text/javascript" src="{% static 'app/js/infobox.js' %}"></script>#}
 <!--Slider Revolution-->
 <script type="text/javascript" src="{% static 'app/rs-plugin/js/jquery.themepunch.tools.min.js' %}"></script>
 <script type="text/javascript" src="{% static 'app/rs-plugin/js/jquery.themepunch.revolution.min.js' %}"></script>
 <!--Parallax-->
 <script type="text/javascript" src="{% static 'app/js/jquery.parallax-0.2-min.js' %}"></script>
+
+<script>
+    function initialize() {
+
+        var input = document.getElementById('searchTextField');
+        var autocomplete = new google.maps.places.Autocomplete(input);
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);
+</script>
 </body>
 </html>

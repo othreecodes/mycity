@@ -1,3 +1,5 @@
+from django.contrib.auth import login
+
 from .models import Profile
 
 from django.contrib.auth.models import User
@@ -38,6 +40,7 @@ def register(request):
         p.phone_number = number
         p.save()
 
-        return redirect('app:index')
+        login(request, u)
+        return redirect('index')
 
     return render(request, 'app/register.djt')
